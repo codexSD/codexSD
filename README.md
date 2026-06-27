@@ -7,6 +7,10 @@
   long-term maintainability over feature churn.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codexSD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 🧭 About Me
@@ -20,6 +24,16 @@
 
 - 📧 **codexsoftsd@gmail.com**
 - 🔗 **LinkedIn:** https://linkedin.com/in/abdallah-ali-moh
+
+---
+
+## 🚧 Currently Working On
+
+- 🏢 **Leading the re-architecture of a ~497K-line legacy .NET Framework ERP** (2,300+ files) into a modular, API-first **.NET 8** platform — Clean Architecture, DDD, and CQRS across **239 handlers / 438 command & query objects** spanning **17 bounded domains**.
+- 🌐 Exposing core ERP capabilities through **140+ REST endpoints**, replacing the direct-DB WinForms model to enable multi-client access and third-party integration.
+- ⚡ Scaling for throughput: **Redis** caching (read latency 820ms → 230ms) and **RabbitMQ** async queues (peak throughput 240 → 1,200 ops/min) over a **database-per-tenant** model.
+- 🧪 Driving a platform-wide testing standard — automated coverage grown from **24 → 2,382** unit & integration tests.
+- 👥 Leading a 4-engineer team (sprint planning, code review, QA gates).
 
 ---
 
